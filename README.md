@@ -1,5 +1,5 @@
 
-# EXP-03 Google Hacking and EnumeraƟon
+# EXP-03 Google Hacking and Enumeration
 
 
 ## AIM:
